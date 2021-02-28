@@ -17,13 +17,6 @@ It offers special features and templates so it works perfectly with all page bui
 
 Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
 
-== Installation ==
-
-= From within WordPress =
-1. Visit "Appearance > Themes > Add New"
-2. Search for "Astra"
-3. Install and activate
-
 == License ==
 
 Astra WordPress Theme, Copyright 2020 WPAstra.
